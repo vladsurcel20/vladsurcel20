@@ -1,6 +1,7 @@
 ### 👋 Hello, I'm Vlad!
 
-👨‍💻 Full Stack Developer | Focused on building scalable and efficient web applications.
+<b> 👨‍💻 Full Stack Developer </b> | Focused on building scalable and efficient web applications.
+<br/>
 
 ### 📫 Get in touch:
 
@@ -9,4 +10,4 @@
 
 ### 🛠️ Tech stack:
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,nodejs,express,mysql,bootstrap,html,css,cs,dotnet,c,cpp,git,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,nodejs,express,sequelize,dotnet,cs,mysql,bootstrap,html,css,postman,git,azure,vscode)](https://skillicons.dev)
