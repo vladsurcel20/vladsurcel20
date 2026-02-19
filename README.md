@@ -1,7 +1,6 @@
 ### 👋 Hello, I'm Vlad!
 
-👨‍💻I'm a Computer Science and Electronics student at Politehnica University of Bucharest (4th Year). <br>
-🌱 I'm focused on building my expertise in software engineering.
+👨‍💻 Full Stack Developer | Focused on building scalable and efficient web applications.
 
 ### 📫 Get in touch:
 
